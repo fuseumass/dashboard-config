@@ -1,14 +1,14 @@
-name: HackUMass
-version: XII # Could also be a roman numeral or other number, will be concatenated with the hackathon name where necessary
-main_website: https://hackumass.com
-dashboard_url: dashboard.hackumass.com
+name: HackHer
+version: 2025 # Could also be a roman numeral or other number, will be concatenated with the hackathon name where necessary
+main_website: https://www.hackher413.com/
+dashboard_url: https://dashboard.hackher413.com/
 logos:
-  primary_path: HackUMassLogo.png
-  nav_path: HackUMassLogo.png
-  favicon_url: https://hackumass.com/assets/img/favicon.ico
+  primary_path: HackUMassLogo.png #change later
+  nav_path: HackUMassLogo.png #change later
+  favicon_url: https://hackumass.com/assets/img/favicon.ico #chanee later 
 emails:
-  contact: team@hackumass.com
-  donotreply: DoNotReply@hackumass.com
+  contact: hackher413@gmail.com
+  donotreply: hackher413@gmail.com
   email_verification: false
 slack:
   enabled: false
@@ -20,7 +20,7 @@ discord:
   general_channel_id: 1160393365821599867
   invite_url: https://discord.gg/aqbbYnkKpd
 applications:
-  mode: 'open'
+  mode: 'closed'
   # options: open, waitlist, or closed. defaults to closed.
   # The applications are still not opened unless the applications feature
   # flag is enabled.
@@ -36,8 +36,8 @@ checkin:
     - UMass, Amherst
 projects:
   public: true
-  hacking_begins: "Nov 8, 2024 23:00:00"
-  hacking_ends: "Nov 10, 2024 11:00:00"
+  hacking_begins: "Feb 8, 2025 23:00:00" #update later
+  hacking_ends: "Feb 10, 2025 11:00:00" #update later
 # List all codes here which can be redeemed on Dashboard to grant permissions
 # This is useful for judges and mentors who show up to the event and need an account
 # with more permissions, and can save time and effort of an organizer
